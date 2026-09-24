@@ -1,0 +1,2 @@
+"""Order continuity example package."""
+
